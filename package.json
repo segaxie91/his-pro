@@ -1,0 +1,22 @@
+{
+  "name": "his-pro",
+  "version": "1.0.0",
+  "description": "HIS, The system experience is unfriendly. Not that I wish to strengthen the system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/segaxie91/his-pro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/segaxie91/his-pro/issues"
+  },
+  "homepage": "https://github.com/segaxie91/his-pro#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
